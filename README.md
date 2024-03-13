@@ -33,7 +33,10 @@ Install Dependencies: Ensure you have Python installed and run pip install -r re
 Explore the Notebooks: Navigate through the notebooks for detailed analyses and methodologies.
 
 # Team
-Holdings Ogon 
+Holdings Ogon
+
 Joshua Udobang 
+
 Nwachukwu Mmesomachi
+
 Okechukwu Okeke
