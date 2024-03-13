@@ -13,6 +13,7 @@ Exploring Additional SAC Mitigation Methods: Identify and utilize 1-2 other stra
 Developing a Novel Approach: Innovate and implement a new method to mitigate the SAC problem effectively.
 
 # Dataset
+The folder named 'ecog-02881' contains the data in rdata file type. The project is generally done in python, so there is a code 'rdata_to_csv.py' to run to convert it to a csv file which is generally accessible via the pandas library in python.
 
 # Methodology
 Our methodology encompasses a comprehensive approach to understanding and addressing SAC:
