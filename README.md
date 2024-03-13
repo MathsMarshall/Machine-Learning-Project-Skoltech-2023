@@ -29,7 +29,9 @@ This project is implemented using Python, with a focus on libraries such as geop
 To get started with this project, please follow the instructions below:
 
 Clone the Repository: git clone <repository-url>
+
 Install Dependencies: Ensure you have Python installed and run pip install -r requirements.txt to install the required libraries.
+
 Explore the Notebooks: Navigate through the notebooks for detailed analyses and methodologies.
 
 # Team
