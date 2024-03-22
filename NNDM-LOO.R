@@ -64,7 +64,7 @@ nndm_loo_cv <- function(pa_data, cropped_env,
 }
 
 # Usage would be similar to your B-LOO function:
-nndm_results <- nndm_loo_cv(pa_data, cropped_env, cropped_env_test, pa_data_test)
+nndm <- nndm_loo_cv(pa_data, cropped_env, cropped_env_test, pa_data_test)
 
 ## Save predictions
 
